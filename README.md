@@ -30,8 +30,8 @@ Copy code
 
 ## 🚀 Usage
 
-### Step 1 — Clone the repository
-```bash
+Step 1 — Clone the repository
+bash
 git clone https://github.com/<your-username>/ansible-system-health-monitoring.git
 cd ansible-system-health-monitoring
 Step 2 — Update your inventory
