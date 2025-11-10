@@ -23,10 +23,7 @@ ansible-system-health-monitoring/
 │ └── hosts.ini
 └── README.md
 
-yaml
-Copy code
 
----
 
 ## 🚀 Usage
 
