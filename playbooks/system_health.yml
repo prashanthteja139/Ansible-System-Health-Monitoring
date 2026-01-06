@@ -15,7 +15,7 @@
     - name: Check CPU load
       shell: top -bn1 | grep "Cpu"
       register: cpu
-
+#generates health report from ansible
     - name: Generate system health report
       copy:
         dest: /var/log/system_health_report.log
