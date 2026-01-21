@@ -7,11 +7,11 @@
     - name: Check disk usage
       shell: df -h
       register: disk
-
+#primary memory check
     - name: Check memory usage
       shell: free -m
       register: memory
-
+#CPU load 
     - name: Check CPU load
       shell: top -bn1 | grep "Cpu"
       register: cpu
