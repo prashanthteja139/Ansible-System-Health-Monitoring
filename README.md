@@ -12,7 +12,7 @@ It gathers CPU, memory, and disk usage stats from all servers in your inventory 
 - Works across multiple nodes in parallel  
 - Easily extendable for network or process checks  
 
----
+
 
 ## 📁 Project Structure
 ansible-system-health-monitoring/
